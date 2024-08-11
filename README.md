@@ -2,8 +2,7 @@
 
 Personal Portfolio Website using HTML, CSS & JavaScript.<br>
 
-An attractive and visually appealing layout that captures visitors' attention. Include home page with a captivating headline, photo, and summary of your skills.<br> 
-A Work and Education section with a detailed background, education, and professional experience.<hr><br>
+An attractive and visually appealing layout that captures visitors' attention. Include home page with a captivating headline, photo, and summary of the skills.<hr><br>
 
 ![Screenshot 2023-08-30 172703](https://github.com/memonriyaz/PRODIGY_WD_04/assets/125969920/e348ed30-6a2e-4947-929f-e2802f05ab90)
 ![Screenshot 2023-08-30 172723](https://github.com/memonriyaz/PRODIGY_WD_04/assets/125969920/aac1c16e-3703-4055-bc96-34fc3dbaadc8)
