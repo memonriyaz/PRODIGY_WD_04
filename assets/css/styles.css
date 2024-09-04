@@ -161,7 +161,7 @@ img {
 
 body {
   overflow-x: hidden;
-  margin-right: 40px;
+  margin: 40px;
 }
 
 .nav__logo {
@@ -332,6 +332,7 @@ body {
   text-align: center;
   font-weight: var(--font-semi);
   padding: 2rem 0;
+  width: 100vw;
 }
 
 .footer__title {
@@ -406,7 +407,7 @@ body {
 
 @media screen and (min-width: 768px) {
   body {
-    margin: 0;
+    margin: 40;
   }
   .section {
     padding-top: 4rem;
